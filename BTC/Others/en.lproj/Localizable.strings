@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  BTC
+
+  Created by Tomasz Korab on 11/02/2020.
+  Copyright © 2020 Tomasz Korab. All rights reserved.
+*/
+
+// MARK: - Subscription screen
+"subscribe.screen.subscribe.button.title" = "Subscribe";
+
+// MARK: - Lost connection alert
+"lost.connection.alert.title" = "Connection problems!";
+"lost.connection.alert.description" = "Maybe check your Settings to ensure you're in wi-fi range and/or have mobile data turned on.";
+"lost.connection.alert.ok" = "OK";
+
+// MARK: - Internal error alert
+"internal.error.alert.title" = "Something went wrong!";
+"internal.error.alert.description" = "That's probably an error on our side. We're already working on it.";
+"internal.error.alert.ok" = "OK";
+
+// MARK: - Live Trades
+"live.trades.title" = "Bitcoin prices";
+"live.trades.clean.up.prompt" = "Clean up done!";
+
+// MARK: - Trades Storage Removal
+"trades.storage.removal.first.part" = "Removing trade from";
+"trades.storage.removal.second.part" = "worth";
+
+// MARK: - Restore Source
+"restore.source.title" = "Source unavailable!";
+"restore.source.description" = "Would you like to restore connection to the source? Maybe check your Settings to ensure you're in wi-fi range and/or have mobile data turned on.";
+"restore.source.yes" = "Restore";
+"restore.source.no" = "No, thanks";

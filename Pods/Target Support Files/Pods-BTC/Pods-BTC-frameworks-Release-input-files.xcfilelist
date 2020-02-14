@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-BTC/Pods-BTC-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Dip/Dip.framework
+${BUILT_PRODUCTS_DIR}/FDTTableViewManager/FDTTableViewManager.framework
+${BUILT_PRODUCTS_DIR}/Keys/Keys.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework

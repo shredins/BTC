@@ -1,0 +1,43 @@
+PODS:
+  - Dip (7.0.1)
+  - FDTTableViewManager (1.0.9)
+  - Keys (1.0.1)
+  - Nimble (8.0.4)
+  - Quick (2.2.0)
+  - SnapKit (5.0.1)
+  - Starscream (3.1.1)
+
+DEPENDENCIES:
+  - Dip (= 7.0.1)
+  - FDTTableViewManager (= 1.0.9)
+  - Keys (from `Pods/CocoaPodsKeys`)
+  - Nimble (= 8.0.4)
+  - Quick (= 2.2.0)
+  - SnapKit (= 5.0.1)
+  - Starscream (= 3.1.1)
+
+SPEC REPOS:
+  https://cdn.cocoapods.org/:
+    - Dip
+    - FDTTableViewManager
+    - Nimble
+    - Quick
+    - SnapKit
+    - Starscream
+
+EXTERNAL SOURCES:
+  Keys:
+    :path: Pods/CocoaPodsKeys
+
+SPEC CHECKSUMS:
+  Dip: 79509d5dc4f648e10e922ed79c608a7761c52b13
+  FDTTableViewManager: ce345b0dd49f83a679db49373bf8494f3b8ce240
+  Keys: a576f4c9c1c641ca913a959a9c62ed3f215a8de9
+  Nimble: 18d5360282923225d62b09d781f63abc1a0111fc
+  Quick: 7fb19e13be07b5dfb3b90d4f9824c855a11af40e
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+
+PODFILE CHECKSUM: eb47b6423e59a222251f5f50e2a501bb8c288fe4
+
+COCOAPODS: 1.8.4
