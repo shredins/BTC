@@ -40,14 +40,14 @@ class LiveTradesView: UIView {
     }
 
     private func doLayout() {
-        addSubview(indicator)
-        indicator.snp.makeConstraints {
-            $0.center.equalToSuperview()
-        }
-
         addSubview(tableView)
         tableView.snp.makeConstraints {
             $0.edges.equalToSuperview()
+        }
+        
+        addSubview(indicator)
+        indicator.snp.makeConstraints {
+            $0.center.equalToSuperview()
         }
     }
 

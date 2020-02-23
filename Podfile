@@ -24,5 +24,4 @@ plugin 'cocoapods-keys', {
   :keys => [
   "WebsocketPath",
   "ExampleRestApiPath"
-  ]
-}
+  ]}
